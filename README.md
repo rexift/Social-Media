@@ -1,4 +1,4 @@
-### Full Stack Social Media App (in-progress)
+### Full Stack Social Media App
 Trying to develop full-stack flutter application with `dart_frog` as backend
 
 - client/
@@ -9,12 +9,6 @@ Trying to develop full-stack flutter application with `dart_frog` as backend
         - it's the package talking to the `postgres`
     - packages/shared
         - it's the shared code base among server and client, the purpose of using dart as backend and flutter on front-end is justified here.
-
-### 🎨 Design
-Inspiration --> https://dribbble.com/shots/18340567-Sosmad-Social-Media-App
-
-Figma Design --> https://www.figma.com/file/83dXk35avf0BTHtYPWeyl7/Flutteram-Social-App
-
 
 ### 👀 Look'n Feel (Underdevelopment)
 
